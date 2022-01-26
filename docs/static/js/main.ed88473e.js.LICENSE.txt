@@ -1,0 +1,63 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+//! AGREGAR EL NUEVO PRESUPUESTO
+
+//! CONSTRUIR EL GASTO
+
+//! CUANDO AGREGAMOS UN NUEVO GASTO
+
+//! PASAR EL GASTO AL COMPONENTE PRINCIPAL
+
+//! RESETEAR A FALSE
+
+//! RESETEAR EL FORM
+
+//! RESTA EL PRESUPUESTO ACTUAL
+
+//! USEEFFECT QUE ACTUALIZA EL RESTANTE
+
+//! VALIDAR CANTIDAD
+
+//*! DEFINIR EL STATE
+
+//*! VALIDAR FORMULARIO
