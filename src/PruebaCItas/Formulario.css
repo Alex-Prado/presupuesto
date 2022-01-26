@@ -1,0 +1,29 @@
+.formulario{
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: palevioletred;
+}
+.formulario input,
+.formulario textarea{
+    padding: 0.5rem;
+    width: 150px;
+}
+.btn{
+    margin-top: 1rem;
+    background: rgb(63, 148, 205);
+    width: 150px;
+    padding: 1rem;
+    border: none;
+
+}
+.agenda{
+    background: rgb(161, 93, 228);
+    margin: 5px;
+}
